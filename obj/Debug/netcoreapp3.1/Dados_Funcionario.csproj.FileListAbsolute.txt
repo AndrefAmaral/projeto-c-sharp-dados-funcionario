@@ -1,0 +1,13 @@
+C:\dev\Dados_Funcionario\obj\Debug\netcoreapp3.1\Dados_Funcionario.csprojAssemblyReference.cache
+C:\dev\Dados_Funcionario\obj\Debug\netcoreapp3.1\Dados_Funcionario.AssemblyInfoInputs.cache
+C:\dev\Dados_Funcionario\obj\Debug\netcoreapp3.1\Dados_Funcionario.AssemblyInfo.cs
+C:\dev\Dados_Funcionario\obj\Debug\netcoreapp3.1\Dados_Funcionario.csproj.CoreCompileInputs.cache
+C:\dev\Dados_Funcionario\bin\Debug\netcoreapp3.1\Dados_Funcionario.exe
+C:\dev\Dados_Funcionario\bin\Debug\netcoreapp3.1\Dados_Funcionario.deps.json
+C:\dev\Dados_Funcionario\bin\Debug\netcoreapp3.1\Dados_Funcionario.runtimeconfig.json
+C:\dev\Dados_Funcionario\bin\Debug\netcoreapp3.1\Dados_Funcionario.runtimeconfig.dev.json
+C:\dev\Dados_Funcionario\bin\Debug\netcoreapp3.1\Dados_Funcionario.dll
+C:\dev\Dados_Funcionario\bin\Debug\netcoreapp3.1\Dados_Funcionario.pdb
+C:\dev\Dados_Funcionario\obj\Debug\netcoreapp3.1\Dados_Funcionario.dll
+C:\dev\Dados_Funcionario\obj\Debug\netcoreapp3.1\Dados_Funcionario.pdb
+C:\dev\Dados_Funcionario\obj\Debug\netcoreapp3.1\Dados_Funcionario.genruntimeconfig.cache
